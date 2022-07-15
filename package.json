@@ -1,5 +1,5 @@
 {
-	"name": "ui-component-library",
+	"name": "bom-ui",
 	"version": "0.0.1",
 	"private": true,
 	"dependencies": {
